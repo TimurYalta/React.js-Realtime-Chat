@@ -1,0 +1,11 @@
+.userLink{
+    background-color: rgb(192, 241, 229); 
+    height: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.userLink:hover{
+    background-color: rgb(146, 238, 128);
+ }

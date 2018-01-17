@@ -1,0 +1,18 @@
+.messageDisplay{
+    border: 1px solid lightgray;
+    height: 400px;
+    overflow-y: auto;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    background-color: rgba(249, 255, 239,0.4);
+ 
+}
+.messageTable{
+    width:100%;
+    border-collapse:collapse;
+}
+
+.messageTable{
+    height:25px;
+    width: 100%;
+}

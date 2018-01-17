@@ -1,0 +1,11 @@
+.Header{
+    
+    font-family: 'Andele Mono', monospace;
+    text-align: center;
+    align-self: flex-start;
+    color:rgb(255, 255, 255);
+    order:0;
+    align-self: stretch;
+    flex-basis: 100%;
+    text-shadow:  0 0 2px rgb(0, 0, 0);
+}

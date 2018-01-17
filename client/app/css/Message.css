@@ -1,0 +1,24 @@
+td{
+    border-bottom: 0.5px solid grey;
+}
+.sender{
+    background-color: orange;
+    width:20%;
+}
+.sender:before{
+    content: "From: ";
+}
+.receiver{
+    width:20%;
+    background-color: lightseagreen;
+}
+.receiver:before{
+    content: "To: ";
+}
+.status
+{width:15%;
+}
+.message{
+    padding-left:10px;
+    width:100%;
+}

@@ -1,0 +1,15 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "Test task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timur Khalilev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}

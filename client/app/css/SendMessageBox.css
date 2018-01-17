@@ -1,0 +1,46 @@
+.sendMessageBox{
+    width: 100%;
+    height: 100px;
+ 
+}
+.messageInput{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    border:1px solid #BEBEBE;
+    padding: 7px;
+    margin:0px;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    outline: none;  
+    width: 80%;
+}
+.sendMessageButton{
+    background: #4B99AD;
+    padding: 8px 15px 8px 15px;
+    border: none;
+    color: #fff;
+    width:20%;
+}
+
+.receiverDiv{
+    height:25px;
+    background-color: rgb(180, 226, 182);
+    width:40%;
+    margin: 7px 0 7px 7px;
+    border-radius: 5px;
+    border: 0.5px solid gray;
+    padding: 5px;
+}
+
+.receiverUsername{
+    border:none;
+    font-weight: bold; 
+}
+.clearReceiverButton{
+    color: red;
+    float:right;
+    border-radius: 4px;
+}
