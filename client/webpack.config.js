@@ -6,7 +6,7 @@ var HTMLWebpackPluginConfig=new HTMLWebpackPlugin({
 });
 var ExtractTextPlugin=require('extract-text-webpack-plugin');
 var combineLoaders = require('webpack-combine-loaders');
-
+//hut
 module.exports = {
     entry: __dirname + "/app/js/index.js",
     module: {
