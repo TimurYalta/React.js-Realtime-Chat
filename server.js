@@ -101,6 +101,11 @@ function getUserKey(socketID) {
   }
   return false;
 }
+
+/** 
+ * I should just probably fucking add redux
+ */
+
 /**
  * Special data structure to hold messages.
  * Constanly keeps 10 last messages.
