@@ -128,3 +128,9 @@ function MessageStorage(size) {
     return this.stack;
   }
 }
+/***
+ * My bad 
+ * well
+ * u know what
+ * they call me black salami
+ */
