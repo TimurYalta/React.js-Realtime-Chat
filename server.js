@@ -102,10 +102,6 @@ function getUserKey(socketID) {
   return false;
 }
 
-/** 
- * I should just probably fucking add redux
- */
-
 /**
  * Special data structure to hold messages.
  * Constanly keeps 10 last messages.
@@ -128,3 +124,13 @@ function MessageStorage(size) {
     return this.stack;
   }
 }
+
+
+
+/***
+ * Well 
+ * you know 
+ * this part 
+ * should be honestly created part of
+ * new commit
+ */
