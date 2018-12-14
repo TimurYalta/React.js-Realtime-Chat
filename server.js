@@ -128,10 +128,9 @@ function MessageStorage(size) {
 /***
  * My bad 
  * well
- * u know what
- * they call me black salami
 
- * Well 
+ * Well  * u know what
+ * they call me black salami
  * you know 
  * this part 
  * should be honestly created part of
