@@ -125,10 +125,12 @@ function MessageStorage(size) {
   }
 }
 
-
-
 /***
- * Well 
+ * My bad 
+ * well
+
+ * Well  * u know what
+ * they call me black salami
  * you know 
  * this part 
  * should be honestly created part of
